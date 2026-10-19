@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Hari-AJ.github.io/sitemap.xml
